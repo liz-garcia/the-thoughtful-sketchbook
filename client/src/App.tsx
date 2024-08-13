@@ -1,31 +1,3 @@
-// client/src/App.tsx
-// import React, { useEffect, useState } from 'react';
-
-// const App: React.FC = () => {
-//   const [message, setMessage] = useState<string>('');
-
-//   const serverURL = 'http://localhost:3000';
-//   const messageURL = `${serverURL}/api/message`;
-
-//   useEffect(() => {
-//     Fetch the message from the server
-//     fetch(messageURL)
-//       .then((response) => response.json())
-//       .then((data) => setMessage(data.message))
-//       .catch((error) => console.error('Error fetching the message:', error));
-//   }, [messageURL]);
-
-//   return (
-//     <div>
-//       <h1>Client-Server Connection Test</h1>
-//       <p>{message}</p>
-//     </div>
-//   );
-// };
-
-// export default App;
-
-
 import { useState, useEffect } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
