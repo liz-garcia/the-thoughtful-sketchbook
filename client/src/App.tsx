@@ -16,7 +16,7 @@ function App() {
       .then((response) => response.json())
       .then((data) => setMessage(data.message))
       .catch((error) => console.error('Error fetching the message:', error));
-  }, []);
+  }, [messageURL]);
 
   return (
     <>
