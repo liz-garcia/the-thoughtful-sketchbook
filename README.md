@@ -1,4 +1,4 @@
-# thoughtful-sketchbook
+# the-thoughtful-sketchbook
 ```
-🌱 wisdom, inspiration, code
+🌱 inspiration and code
 ```
