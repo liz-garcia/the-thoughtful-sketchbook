@@ -1,1 +1,4 @@
-# architect-portfolio
+# thoughtful-sketchbook
+```
+🌱 wisdom, inspiration, code
+```
